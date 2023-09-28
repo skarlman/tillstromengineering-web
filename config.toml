@@ -1,0 +1,34 @@
+baseURL = 'https://tillstromengineering.se/'
+languageCode = 'sv-se'
+title = 'Tillstrom Engineering AB'
+theme = 'hugo-theme-massively'
+googleanalytics = ""
+disqusShortname = ""
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+defaultContentLanguage = 'sv'
+
+# [params]
+  # set below parameter to define a favicon
+  # favicon = "favicon.ico"
+  # set to change date format
+  # dateFormat = "2.1.2006"
+  # backgroundPath = "images/bg.jpg"
+
+# Below parameters can be set to override default post settings
+[params.posts]
+#     folderName = "post"
+#     pageSize = "6"
+    featuredPost = "false"
+#     paginationPages = 2
+#     showFirstLast = false
+
+[languages]
+[languages.sv]
+  languageName = "Swedish"
+
+
+[markup]
+ [markup.goldmark]
+   [markup.goldmark.renderer]
+     unsafe = true
+

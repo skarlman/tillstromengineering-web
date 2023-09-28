@@ -1,0 +1,8 @@
+items:
+- title: 'Vad vi gör'
+  url: '/vad-vi-gor'
+- title: 'CV'
+  url: '/cv'
+- title: 'Föreläsningar, Kurser, Projekt'
+  url: '/forelasningar-kurser-projekt'
+  
