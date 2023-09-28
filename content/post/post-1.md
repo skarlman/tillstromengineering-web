@@ -11,7 +11,7 @@ Och då tänker du förstås, **otur**, att koda var ju lite varför jag hamnade
 
 *(Eller så är min bild av var utvecklare står i sin egen utveckling sned, och reaktionen är mer i linje med "no shit, sherlock"...?)*
 
-Grejen är hursomhelst den att det är inte våra intrikata switch-satser eller inverterade röd-svarta-träd som någon betalar oss för. Det är för effekten vi har tänkt att de skall uppnå för någon användare i slutändan. Och även om vi *oftast* löser det med kod (det är ju just för att vi kan det som vi har jobbet) så är det mycket värt att först se problemen med rätt glasögon, eller från rätt vinkel om du vill. Då tenderar blir besluten vi tar något bättre något oftare. 
+Grejen är hursomhelst den att det är inte våra intrikata switch-satser eller inverterade röd-svarta-träd som någon betalar oss för. Det är för effekten vi har tänkt att de skall uppnå för någon användare i slutändan. Och även om vi *oftast* löser det med kod (det är ju just för att vi kan det som vi har jobbet) så är det mycket värt att först se problemen med rätt glasögon, eller från rätt vinkel om du vill. Då tenderar besluten vi tar bli något bättre, något oftare. 
 
 ## Vi tar ett exempel
 
