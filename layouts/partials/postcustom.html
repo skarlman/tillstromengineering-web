@@ -1,0 +1,10 @@
+
+<meta property="og:title" content="{{ if eq (.Site.Title) (.Title) }}{{ .Site.Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}" />
+
+
+<meta property="og:type" content="article" />
+<meta property="og:url" content=" {{ .Permalink }} " />
+{{ if .Params.image }}
+<meta property="og:image" content="{{ .Params.image | absURL }}" />
+
+{{ end }}
