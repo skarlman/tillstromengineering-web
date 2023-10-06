@@ -1,10 +1,10 @@
 +++
 title = 'Tabs or spaces?'
 slug = 'tabs-or-spaces'
-#image = '/images/posts/post-2/kanban monkeys.jpg'
+image = '/images/posts/post-3/tabs-or-spaces.jpg'
 description = 'Rätt svar är: Vem bryr sig?! Automatisera bort diskussionen istället!'
 disableComments = true
-date = "2023-09-29"
+date = "2023-10-06"
 +++
 
 Igår var jag på Cloud Native Göteborgs 29:e **(!)** meetup där bl.a. [Mikael Vesavuori](https://www.linkedin.com/in/mikael-vesavuori/) pratade om hur teknisk skuld kan hanteras. Gott så, men något som roade mig (och honom) var att punkten som gav mest engagerad diskussion var användandet av en linter (**ESLint**). Något som i min värld är en detalj, lite av en avslutad diskussion (precis som testning, CI/CD och liknande är, så här fick jag lite av en inblick i en annan värld).
