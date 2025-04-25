@@ -8,7 +8,7 @@ disableComments = true
 ---
 ## Föreläsningar
 
-### ChatGPT för utvecklare
+### ChatGPT för utvecklare (2023)
 En 30 minuter "hands on" presentation av hur programmerare kan använda sig av ChatGPT i sitt arbete.
 
 
@@ -18,11 +18,14 @@ En 30 minuter "hands on" presentation av hur programmerare kan använda sig av C
 #### Engelska
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OnasmQG4ao0?si=gtUFJh2t5nBDOTp-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### Bitcoin prediction with machine learning for fun and profit in C# (2017) 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dwC-zUks1gw?si=KhFjS2fAb8XYmlOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 ## Kurser
 
 
-### Hands on Machine Learning for .Net developers Video course
+### Hands on Machine Learning for .Net developers Video course (2020)
 
 [![img](/images/hands_on_machine_learning.png)](https://www.packtpub.com/product/hands-on-machine-learning-for-net-developers-video/9781800205024)
 
